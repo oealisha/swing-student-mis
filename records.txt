@@ -1,0 +1,9 @@
+Aashish	Maharjan	 Male	Bafal	9.810154589E9	1	BCIS	92	85	80	84
+Agrani	Ghimire	 Female	Baneshowr	9.841629421E9	2	BCIS	42	55	60	78
+Alisha	Pokhrel	 Female	Kalanki	9.861596739E9	3	BCIS	31	78	75	64
+Asha	GC	 Female	Gongabu	9.84159679E9	4	BCIS	45	56	65	56
+Bibek	Shakya	 Male	NewRoad	9.84537291E9	5	BCIS	9	16	55	36
+Pratima	Singh	 Female	Kalimati	9.801192456E9	6	BCIS	40	58	61	69
+Shristi	Bhusal	 Female	Nepaltar	9.8453910226E10	7	BCIS	40	48	61	47
+Susan	Shrestha	 Male	Baneshowr	9.841902789E9	8	BCIS	50	68	71	67
+Shrijana	Neupane	 Female	Balaju	9.841789789E9	9	BCIS	40	58	71	77
